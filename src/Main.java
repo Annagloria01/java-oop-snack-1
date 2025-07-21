@@ -7,7 +7,7 @@ public class Main {
         //
 
         //SNACK 2
-            ContoBancario contoAnna = new ContoBancario(32789);
+            ContoBancario contoAnna = new ContoBancario("5454874689684");
             contoAnna.deposito(500);
             contoAnna.prelievo(100);
 
